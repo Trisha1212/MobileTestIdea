@@ -9,7 +9,7 @@
 - **UI Layout**: Validate that UI layout and rendering on a real device should map to exactly what was defined in the mocks
 - **Unrecoverable workflows**: We need to make sure that in any workflow of browsing mobile app should not lead to a 404 page. One of the most common examples in this case would be back button behavior (both soft and hard keys) on pages. This would also require testing of scenarios for history and cache management and it will become super critical to run.[Product datafeed problem]
 - **Redirection**: There are features in the mobile website and app that will have the user switch context to a different page. In those flows, we need to ensure both forward and backward workflows. 
-- Conflicts: Some of the conflicts that will need to be verified on a real device are:
+- **Conflicts**: Some of the conflicts that will need to be verified on a real device are:
 1. Conflicts/Interrupts (Only on app)
 2. Pause and launch music/movie player
 3. Pause and launch camera
