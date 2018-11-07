@@ -52,7 +52,7 @@
     4.Stress test will be introduced in regression to ensure no stress side effect.
 
 ## Performance Targets
-
+<img src="1.png" width="900" />
 
 
 ## Launch Test 
