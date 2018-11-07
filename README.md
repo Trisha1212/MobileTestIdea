@@ -1,5 +1,5 @@
-# NonFunctionalTesting
-- Test Idea Non Functional Testing in Mobile App
+# Test Ideas for Mobile Testing
+- Test Idea Functional and Non-Functional Testing in Mobile App
 <br />
 <br />
 <br />
