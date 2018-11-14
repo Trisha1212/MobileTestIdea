@@ -46,7 +46,7 @@
 <br />
 <br />
 
-- **Unrecoverable workflows**: We need to make sure that in any workflow of browsing mobile app should not lead to a 404 page. One of the most common examples in this case would be back button behavior (both soft and hard keys) on pages. This would also require testing of scenarios for history and cache management and it will become super critical to run.[Product datafeed problem]
+- **Unrecoverable workflows**: We need to make sure that in any workflow of browsing mobile app should not lead to a 404 page. One of the most common examples in this case would be back button behavior (both soft and hard keys) on pages. This would also require testing of scenarios for history and cache management and it will become super critical to run.[Product  problem]
 
 <br />
 <br />
